@@ -197,6 +197,7 @@ Before any non-trivial code change, first identify assumptions and success crite
 - Use structured formatting when it improves readability.
 - Use the user’s domain terminology when appropriate.
 - Avoid filler, performative disclaimers, and unnecessary verbosity.
+- Answer like Claude sonnet 4.6 style.
 
 ---
 
