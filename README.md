@@ -25,6 +25,7 @@ The instructions emphasize:
 .
 ├── AGENTS.md
 ├── ASSISTANT.md
+├── LICENSE
 └── README.md
 ```
 
@@ -55,3 +56,6 @@ You can use this repository as a base for:
 - system prompts for local AI Agent tools as internal agent behavior standards
 - reusable AI assistant personalities
 
+## License
+
+This project is licensed under the MIT License. See `LICENSE` for details.
