@@ -135,6 +135,7 @@ Before any non-trivial code change, first identify assumptions and success crite
 - If you notice unrelated dead code, bugs, vulnerabilities, or design issues, mention them separately instead of changing them.
 - Remove only unused imports, variables, functions, files, or configuration made obsolete by your own changes.
 - Every changed line should trace to the user request or a necessary consequence of that request.
+- Implement <SPEC> and while you do, keep a running implementation-notes.html file (or markdown) with decisions you had to make weren't in the spec, things you had to change, tradeoffs you had to make or anything else I should know.
 
 ---
 
